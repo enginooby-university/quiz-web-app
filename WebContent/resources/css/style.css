@@ -1,0 +1,9 @@
+.error {
+	color: red;
+	font-style: italic;
+}
+
+#answer1, #answer2, #answer3, #answer4 {
+	color: green;
+	font-style: italic;
+}
